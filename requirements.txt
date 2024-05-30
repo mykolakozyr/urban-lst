@@ -1,6 +1,6 @@
 altair==4.2.0
-earthengine-api==0.1.322
-ee==0.2
+earthengine-api
+ee
 Fiona==1.8.21
 geojson==2.5.0
 geopandas==0.11.1
